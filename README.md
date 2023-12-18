@@ -50,8 +50,9 @@ Before getting started, ensure the following tools are installed on your machine
    Open the project solution in Visual Studio: eStore.sln.
 
 3. **Create your Database:**
-   Create in SQL Server Management Studio the database for the eStore Platform to manipulate. <br> This is the schema used with datatypes for each of the attributes
-   [
+   Create in SQL Server Management Studio the database for the eStore Platform to manipulate. <br> This is the schema used with datatypes for each of the attributes. <br>
+   ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/dbSchema.png) <br> This is the schema specified with relationships. <br>
+   ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/dbSchemaRelationships.png)
 
 5. **Configure Database Connection:**
    Update the connection strings named dbConnection on every form to point to your SQL Server instance
