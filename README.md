@@ -11,17 +11,12 @@ As the database is intended to be managed by the owner, the owner will have admi
  ## Table of Contents
 
 - [Project Title](#eStore-Database-System)
+  - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-    - [Requirements](#database=requirements)
-    - [Tasks](#database-tasks)
-    - [GUI](#graphical-user-interface)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Language Syntax](#language-syntax)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
   - [Usage](#usage)
-  - [Example Code](#example-code)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
@@ -39,7 +34,7 @@ Before getting started, ensure the following tools are installed on your machine
 - [Microsoft SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) <br> Version 19.1. was used in the development of this project.
 - You must also insure that the Microsoft .NET Framework is installed within Visual Studio. Version 4.8 was used in the development of this project. 
 
-## Getting Started
+## Installation
 
 1. **Clone the Repository:**
    ```bash
@@ -72,6 +67,11 @@ Before getting started, ensure the following tools are installed on your machine
  Adding an order <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/orderAdded.png) <br> Deleting an order <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/orderDeleted.png) <br><br> ***Note: For a full tutorial of the system, please visit the user manual section in the [project
 documentation](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Documentation/eStoreProjectDocumentation.pdf).***
 5. **Change Password:** <br> The admin can also choose to change their password by clicking the change password button on the homescreen. <br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/changePW.png)
+
+## Acknowledgements
+
+The eStore database project builds upon concepts learned from the "Files and Databases" CS6320 course at St. Mary's University, San Antonio, Texas.
+This project was created throughout the Fall 2023 semester with group partners Emily Medlin and Faith Chapman.
 
 
 
