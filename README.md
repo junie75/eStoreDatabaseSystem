@@ -17,7 +17,6 @@ As the database is intended to be managed by the owner, the owner will have admi
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 ## Features
