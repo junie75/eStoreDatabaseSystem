@@ -54,11 +54,22 @@ Before getting started, ensure the following tools are installed on your machine
    ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/dbSchema.png) <br> This is the schema specified with relationships. <br>
    ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/dbSchemaRelationships.png)
 
-5. **Configure Database Connection:**
-   Update the connection strings named dbConnection on every form to point to your SQL Server instance
-
+4. **Configure Database Connection:**
+   Update the connection strings named dbConnection on every form to point to your SQL Server instance.
+   - Click the dbConnection object
+   - In the properties section, scroll up to the "Data" subsection find the field labeled "Connection String".
+   - Click "New Connection" and add your SQL Server instance
+   
 6. **Build and Run:**
-   Build and run the application using Visual Studio. 
+   Build and run the application using Visual Studio.
+
+
+## Usage
+
+1. **Login:**
+2. **Explore System:**
+3. **Manipulate DB:**
+4. **Change Password:**
 
 
 
