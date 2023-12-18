@@ -66,10 +66,12 @@ Before getting started, ensure the following tools are installed on your machine
 
 ## Usage
 
-1. **Login:**
-2. **Explore System:**
-3. **Manipulate DB:**
-4. **Change Password:**
+1. **Login:** <br> Use your credentials to log in to the application. <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/login.png)
+2. **Explore System:** <br> Navigate from the home screen to the next form of your choice. <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/homeScreen.png)
+3. **Manipulate DB:** <br> From the orders screen, we are able to see all of the orders placed by customers, add a new order, edit an existing order, or delete an order. <br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/ordersScreen.png) <br><br> **When a query has been completed, a pop-up will display a confirmation message to the user.** <br><br>
+ Adding an order <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/orderAdded.png) <br> Deleting an order <br><br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/orderDeleted.png) <br><br> ***Note: For a full tutorial of the system, please visit the user manual section in the [project
+documentation](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Documentation/eStoreProjectDocumentation.pdf).***
+5. **Change Password:** <br> The admin can also choose to change their password by clicking the change password button on the homescreen. <br> ![image](https://github.com/junie75/eStoreDatabaseSystem/blob/master/Images/changePW.png)
 
 
 
