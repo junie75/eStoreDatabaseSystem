@@ -37,8 +37,8 @@ Before getting started, ensure the following tools are installed on your machine
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/junie75/eStoreDatabaseSystem.git
+   cd eStoreDatabaseSystem
 
 2. **Open in Visual Studio:**
    Open the project solution in Visual Studio: eStore.sln.
@@ -52,7 +52,7 @@ Before getting started, ensure the following tools are installed on your machine
    Update the connection strings named dbConnection on every form to point to your SQL Server instance.
    - Click the dbConnection object
    - In the properties section, scroll up to the "Data" subsection find the field labeled "Connection String".
-   - Click "New Connection" and add your SQL Server instance
+   - Click "New Connection" and add your SQL Server instance.
    
 6. **Build and Run:**
    Build and run the application using Visual Studio.
